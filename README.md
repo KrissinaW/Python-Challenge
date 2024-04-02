@@ -1,7 +1,7 @@
 # Python-Challenge
 Python challenges, PyBank and PyPoll:
 
- In this challenge we are required to put the Python concepts that we learned over the past week to the test by completing two challenged that are real-world situations. 
+ In this challenge we are required to put the Python concepts that we learned over the past week to the test by completing two challenges that are real-world situations. 
  
 **PyBank :** 
  We were given a financial dataset called budget_data.csv. This dataset is composed of two columns: "Date" and "Profit/Losses".
