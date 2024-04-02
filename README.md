@@ -27,3 +27,5 @@ Our mission is to create a Python script that analyzes the votes and calculates 
  - The percentage of votes each candidate won
  - The total number of votes each candidate won
  - The winner of the election based on popular vote
+
+Chat GPT and Git Hub Public Repositories have been extreamly helpful when debugging code that is not working and also researching other ways to write a code more simply. 
