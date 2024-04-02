@@ -1,5 +1,6 @@
 # Python-Challenge
-Python challenges, PyBank and PyPoll
+Python challenges, PyBank and PyPoll:
+
  In this challenge we are required to put the Python concepts that we learned over the past week to the test by completing two challenged that are real-world situations. 
  
 **PyBank :** 
